@@ -4,5 +4,32 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Samples/Bootstrap.unity
+    guid: f9d9e3c69cc3013468ae607ff6fcdf31
+  - enabled: 1
+    path: Assets/Samples/00_Settings/00MeshType/Scenes/MeshType.unity
+    guid: 7019b926bc6f55043aeb2e5d9d8e557c
+  - enabled: 1
+    path: Assets/Samples/00_Settings/01GenerateMipMaps/Scenes/GenerateMipMaps.unity
+    guid: 71df09cbf8f80fb478a275ae05c6a595
+  - enabled: 1
+    path: Assets/Samples/00_Settings/02ReadWrite/Scenes/ReadWrite.unity
+    guid: 9fa5fd7f8d2860a4faa126fd673ed134
+  - enabled: 1
+    path: Assets/Samples/00_Settings/03Compression/Scenes/Compression.unity
+    guid: b3e81785b34c4c84eb0d846f7b5f0223
+  - enabled: 1
+    path: Assets/Samples/01_Batch/00SimpleBatch/Scenes/SimpleBatch.unity
+    guid: e93bd284b629d445da4cd3c7b9d13a41
+  - enabled: 1
+    path: Assets/Samples/01_Batch/01BatchByCanvas/Scenes/BatchByCanvas.unity
+    guid: c4cc979aafb784579827677ec389f775
+  - enabled: 1
+    path: Assets/Samples/01_Batch/02BatchByNest/Scenes/BatchByNest.unity
+    guid: 10e59963a4493094daebd23ba3859edc
+  - enabled: 1
+    path: Assets/Samples/03_Layout/00LayoutGroup/Scenes/LayoutGroup.unity
+    guid: a6e12cb03a264c943b7728167251e854
   m_configObjects: {}
